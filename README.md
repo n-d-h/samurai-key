@@ -17,7 +17,7 @@
   <a href="#contributers">Contributers</a>
 </p>
 
-![screenshot](https://github.com/n-d-h/samurai_key/blob/main/web/img/homescreen.png)
+![homescreen](https://github.com/n-d-h/samurai-key/blob/main/web/img/homescreen.png)
 
 ## Key Features
 
