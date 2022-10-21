@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">The website for game distribution. PRJ301 Course Project.</h4>
+<h4 align="center">A web application for online gaming e-commerce. PRJ301 Course Project.</h4>
 
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ## Key Features
 
-* Load products from Database and Display on website
-* Search and Filter Product
+* Load data from SQLServer 
+* Display products on website
+* Search and Filter products
 * Pagingation
-* Load and Show prouduct detail
-* Shopping Cart
-* Admin site:
-  - Manage product: CRUD
+* View product details
+* Manage cart
+* Manage product on Admin page
 * Authorization
 * Authentication
 
@@ -39,22 +39,22 @@
 
 ## How To Use
 
-To clone and run this application, you'll need Java Developing IDE( NetBeans, Eclipe,...), Microsoft SQL Server and Apache Tomcat 8( or higher) installed on your computer.
+To clone and run this application, you'll need Java Developing IDE (NetBeans, Eclipe,...), Microsoft SQL Server and Apache Tomcat 8 (or higher) installed on your computer.
 
-### 1. After cloned, run PRJShop.sql by using SQL Server and excute it to create Database
-### 2. Go to package Context -> DBUtil.java -> Change user and password( match with your SQL Server)
+### 1. After successfully cloned, run PRJShop.sql by using SQL Server to create Database with data
+### 2. Go to package Context -> DBUtil.java -> Change user and password (match with your SQL Server)
 
 <img src="https://github.com/n-d-h/samurai-key/blob/main/screenshots/setup.png" alt="setup"/>
 
-### 3. Make sure you have Apache Tomcat! Then run application by localhost and enjoy!
+### 3. Make sure you have Apache Tomcat! Then run the web application as localhost and enjoy!
 
 > **Note**
-> If there is Error in first time you access the website, try to reload website(F5).
+> If there is any error in the first time you access the website, try reloading the website (F5).
 
 
 ## Credits
 
-This application uses the following open source packages:
+This web application uses the following open source packages:
 
 - [Ogani Template](https://colorlib.com/wp/template/ogani/)
 - [Bootstrap](https://getbootstrap.com/)
