@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/n-d-h/samurai_key/blob/main/web/img/logoweb.png" alt="Markdownify" width="400">
+  <img src="https://github.com/n-d-h/samurai-key/blob/main/web/img/logoweb.png" alt="Markdownify" width="400">
   <br>
   Samurai Key
   <br>
@@ -44,7 +44,7 @@ To clone and run this application, you'll need Java Developing IDE( NetBeans, Ec
 ### 1. After cloned, run PRJShop.sql by using SQL Server and excute it to create Database
 ### 2. Go to package Context -> DBUtil.java -> Change user and password( match with your SQL Server)
 
-<img src="https://github.com/n-d-h/samurai_key/blob/main/screenshots/setup.png" alt="setup"/>
+<img src="https://github.com/n-d-h/samurai-key/blob/main/screenshots/setup.png" alt="setup"/>
 
 ### 3. Make sure you have Apache Tomcat! Then run application by localhost and enjoy!
 
